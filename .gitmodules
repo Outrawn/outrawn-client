@@ -1,0 +1,3 @@
+[submodule "outrawnui"]
+	path = outrawnui
+	url = https://github.com/Outrawn/outrawn-client.git
